@@ -3,7 +3,7 @@
 <a href="#sobre">Sobre</a> o
 <a href="#sobre">Tecnologias</a> o
 <br><br>
-o Homepage:  <a href=/>Lista com Javascript--copy</a>
+o Homepage:  <a href=https://igoroliveiranunes.github.io/Lista-com-Javascript//>Lista com Javascript--copy</a>
 
 
 # Sobre
@@ -13,6 +13,7 @@ o Homepage:  <a href=/>Lista com Javascript--copy</a>
 <p>O</p>
 
 # Tecnologias
+--<a href="https://www.javascript.com">JAVASCRIPT</a><br>
 --<a href="https://www.learn-html.org">Html</a><br>
 --<a href="https://www.css.org">Css</a><br>
 
